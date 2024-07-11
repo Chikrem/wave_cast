@@ -35,6 +35,6 @@ O projeto pode ser visualizado em:
 - [Vercel](https://wave-cast-iota.vercel.app/)
 
 ## Screenshots
-![Screenshot da tela inicial do Calmaria](src/imagens/img3.png)
-![Screenshot dos Cards de Serviços do Calmaria](src/imagens/img3.png)
+![Screenshot da tela inicial do WaveCast](src/imagens/img.png)
+
 
