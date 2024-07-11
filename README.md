@@ -15,7 +15,7 @@ Wave Cast é uma página estática com tema de podcast desenvolvida para explora
 
 - HTML5
 - CSS3 (Flexbox e Grid)
-- 
+  
 ## Instalação e uso
 
 Siga os passos abaixo para configurar o ambiente de desenvolvimento local:
