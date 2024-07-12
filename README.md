@@ -2,7 +2,7 @@
 
 ![Wave Cast Logo](src/imagens/Logos/CastWave_logo.png)
 
-Wave Cast é uma página estática com tema de podcast desenvolvida para explorar as funcionalidades do Flexbox e Grid no frontend do curso "CSS: construindo layouts com Grid" da Alura.
+Wave Cast é uma página estática com tema de podcast desenvolvida para explorar as funcionalidades do Flexbox e Grid no frontend do curso "CSS: construindo layouts com Grid" da [Alura](https://cursos.alura.com.br/course/css-construindo-layouts-com-grid).
 
 ## Funcionalidades
 
